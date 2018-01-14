@@ -1,0 +1,14 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "fun tetris game",
+  "main": "music.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Langford",
+  "license": "MIT",
+  "dependencies": {
+    "scribbletune": "^0.11.0"
+  }
+}
